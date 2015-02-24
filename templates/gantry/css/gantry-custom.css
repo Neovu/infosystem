@@ -1,3 +1,65 @@
+
+/*FOOOTER CUSTOMIZADO POR HORA*/
+
+.footer-cool{
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    background: transparent;
+    width: 100%;
+    text-align: center;
+}
+
+.vert-offset-top-10{
+    margin-top: 1em!important;
+}
+.vert-offset-top-20{
+    margin-top: 2em!important;
+}
+.vert-offset-top-30{
+    margin-top: 3em!important;
+}
+.vert-offset-top-40{
+    margin-top: 4em!important;
+}
+.vert-offset-top-50{
+    margin-top: 5em!important;
+}
+.vert-offset-bottom-10{
+    margin-bottom: 1em!important;
+}
+.vert-offset-bottom-20{
+    margin-bottom: 2em!important;
+}
+.vert-offset-bottom-30{
+    margin-bottom: 3em!important;
+}
+.vert-offset-bottom-40{
+    margin-bottom: 4em!important;
+}
+.vert-offset-bottom-50{
+    margin-bottom: 5em!important;
+}
+.btn-orange-cool{
+    width: 100%!important;
+    height: 3em!important;
+    border-radius: 3px!important;
+    background: rgb(237, 98, 52)!important;
+    outline: none!important;
+    border:0 solid #333;
+}
+
+.input-cool{
+    padding: 1em 0.5em!important;
+    
+}
+span.destaque{
+    color: rgb(237, 98, 52)!important;
+}
+
+//END UTILS//
+
 .clearfix {
   *zoom: 1;
 }
@@ -60,6 +122,8 @@ html {
 }
 body {
   margin-bottom: 1px;
+  background: url("/templates/gantry/images/bg_construction_page.jpg")!important;
+  background-size:cover!important;
 }
 .rt-block {
   padding: 15px;
@@ -1665,7 +1729,7 @@ a {
 }
 .title,
 .component-content h2 {
-  font-size: 28px;
+  font-size: 36px;
   line-height: 30px;
   font-weight: normal;
   letter-spacing: normal;
@@ -1930,11 +1994,11 @@ ul.menu li .separator {
 .title,
 .component-content h2 {
   color: #303030;
-  text-shadow: 1px 1px 0 #ffffff;
+/*  text-shadow: 1px 1px 0 #ffffff;
   border-bottom: 1px solid #d1d1d1;
   -webkit-box-shadow: 0 1px 0 #ffffff;
   -moz-box-shadow: 0 1px 0 #ffffff;
-  box-shadow: 0 1px 0 #ffffff;
+  box-shadow: 0 1px 0 #ffffff;*/
 }
 .title1 .title {
   background: #ffffff;
@@ -2251,6 +2315,8 @@ select {
   -moz-box-shadow: inset 0 1px 2px rgba(0,0,0,0.025);
   box-shadow: inset 0 1px 2px rgba(0,0,0,0.025);
 }
+     
+
 input[disabled],
 select[disabled],
 textarea[disabled],
@@ -2269,6 +2335,11 @@ textarea[readonly] {
 .input-append.input-append .media-preview {
   margin: 0;
 }
+.center-comp{
+    margin: 0 auto;
+    float: none;
+}
+
 .form-actions {
   background-color: #f0f0f0;
   border-top: 1px solid #d5d5d5;
@@ -2674,6 +2745,7 @@ a [class*=" icon-"] {
 .dropdown-submenu:hover > a > [class*=" icon-"] {
   background-image: none;
 }
+
 .btn [class^="icon-"].icon-large,
 .btn [class*=" icon-"].icon-large,
 .nav [class^="icon-"].icon-large,
@@ -4143,6 +4215,9 @@ cite {
 }
 ul.menu ul.unstyled {
   margin-left: 25px;
+}
+.input-full{
+    
 }
 .input-xxlarge {
   width: 97%;
