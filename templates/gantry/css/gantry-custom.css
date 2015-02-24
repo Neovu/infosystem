@@ -1,64 +1,4 @@
 
-/*FOOOTER CUSTOMIZADO POR HORA*/
-
-.footer-cool{
-    position: fixed;
-    bottom: 0px;
-    left: 0px;
-    right: 0px;
-    background: transparent;
-    width: 100%;
-    text-align: center;
-}
-
-.vert-offset-top-10{
-    margin-top: 1em!important;
-}
-.vert-offset-top-20{
-    margin-top: 2em!important;
-}
-.vert-offset-top-30{
-    margin-top: 3em!important;
-}
-.vert-offset-top-40{
-    margin-top: 4em!important;
-}
-.vert-offset-top-50{
-    margin-top: 5em!important;
-}
-.vert-offset-bottom-10{
-    margin-bottom: 1em!important;
-}
-.vert-offset-bottom-20{
-    margin-bottom: 2em!important;
-}
-.vert-offset-bottom-30{
-    margin-bottom: 3em!important;
-}
-.vert-offset-bottom-40{
-    margin-bottom: 4em!important;
-}
-.vert-offset-bottom-50{
-    margin-bottom: 5em!important;
-}
-.btn-orange-cool{
-    width: 100%!important;
-    height: 3em!important;
-    border-radius: 3px!important;
-    background: rgb(237, 98, 52)!important;
-    outline: none!important;
-    border:0 solid #333;
-}
-
-.input-cool{
-    padding: 1em 0.5em!important;
-    
-}
-span.destaque{
-    color: rgb(237, 98, 52)!important;
-}
-
-//END UTILS//
 
 .clearfix {
   *zoom: 1;
@@ -119,11 +59,6 @@ a:hover {
 html {
   margin-bottom: 1px;
   height: 100%;
-}
-body {
-  margin-bottom: 1px;
-  background: url("/templates/gantry/images/bg_construction_page.jpg")!important;
-  background-size:cover!important;
 }
 .rt-block {
   padding: 15px;
@@ -1954,7 +1889,7 @@ img.gantry-img {
   content: '+';
 }
 body {
-  background: #f5f5f5;
+  background: transparent;
   color: #6e6e6e;
 }
 a:hover {
@@ -1986,10 +1921,10 @@ ul.menu li .separator {
   box-shadow: inset 0 5px 12px rgba(0,0,0,0.13);
 }
 #rt-copyright {
-  border-top: 1px solid #d5d5d5;
+  border-top: 0px solid #d5d5d5;
   -webkit-box-shadow: inset 0 1px 0 #ffffff;
   -moz-box-shadow: inset 0 1px 0 #ffffff;
-  box-shadow: inset 0 1px 0 #ffffff;
+  box-shadow: inset 0 0px 0 #ffffff;
 }
 .title,
 .component-content h2 {
@@ -4439,4 +4374,75 @@ body .cart_quickcart input[type="text"] {
   width: auto;
   height: auto;
   line-height: inherit;
+}
+
+ 
+//START UTILS//
+
+html {
+   
+  height: 100%;
+}
+html {
+   
+  background: url("/templates/gantry/images/bg_construction_page.jpg");
+  background-size:cover;
+}
+.custom{
+    /* position: absolute; */
+}
+.footer-cool{
+    position: fixed;
+    bottom: 0px;
+    /* left: 0px; */
+    /* right: 0px; */
+    background: transparent;
+    width: 100%;
+    text-align: center;
+}
+.vert-offset-top-10{
+    margin-top: 1em!important;
+}
+.vert-offset-top-20{
+    margin-top: 2em!important;
+}
+.vert-offset-top-30{
+    margin-top: 3em!important;
+}
+.vert-offset-top-40{
+    margin-top: 4em!important;
+}
+.vert-offset-top-50{
+    margin-top: 5em!important;
+}
+.vert-offset-bottom-10{
+    margin-bottom: 1em!important;
+}
+.vert-offset-bottom-20{
+    margin-bottom: 2em!important;
+}
+.vert-offset-bottom-30{
+    margin-bottom: 3em!important;
+}
+.vert-offset-bottom-40{
+    margin-bottom: 4em!important;
+}
+.vert-offset-bottom-50{
+    margin-bottom: 5em!important;
+}
+.btn-orange-cool{
+    width: 100%!important;
+    height: 3em!important;
+    border-radius: 3px!important;
+    background: rgb(237, 98, 52)!important;
+    outline: none!important;
+    border:0 solid #333;
+}
+
+.input-cool{
+    padding: 1em 0.5em!important;
+    
+}
+span.destaque{
+    color: rgb(237, 98, 52)!important;
 }
