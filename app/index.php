@@ -30,16 +30,17 @@
             </div>
         </form>
     </div>
-    <section class="social row">
-        <div class="span2 center-comp">
-            <a href="/templates/gantry/images/social/bt_face.png"><img src="/templates/gantry/images/social/bt_face.png"/></a>
-            <a href="/templates/gantry/images/social/bt_twitter.png"><img src="/templates/gantry/images/social/bt_twitter.png"/></a>   
-            <a href="/templates/gantry/images/social/bt_linkedin.png"><img src="/templates/gantry/images/social/bt_linkedin.png"/></a>
-            <a href="/templates/gantry/images/social/bt_google.png"><img src="/templates/gantry/images/social/bt_google.png"/></a>
-        </div>
-    </section>
-<section class="footer-cool center">
-        <h4>&copy; Infosystem 2015. (48) 3344-0200 | 9158-1930 </h4>
-        <h4><a href="http://www.neovu.com.br" target="blank">by neovu</a></h4>
-    </section>
+
+</div>
+
+<section class="social row">
+    <div class="span2 center-comp">
+        <a href="/templates/gantry/images/social/bt_face.png"><img src="/templates/gantry/images/social/bt_face.png"/></a>
+        <a href="/templates/gantry/images/social/bt_twitter.png"><img src="/templates/gantry/images/social/bt_twitter.png"/></a>   
+        <a href="/templates/gantry/images/social/bt_linkedin.png"><img src="/templates/gantry/images/social/bt_linkedin.png"/></a>
+        <a href="/templates/gantry/images/social/bt_google.png"><img src="/templates/gantry/images/social/bt_google.png"/></a>
+    </div>
 </section>
+
+
+<div class="clear"></div>

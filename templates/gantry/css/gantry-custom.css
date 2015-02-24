@@ -11,6 +11,7 @@
     text-align: center;
 }
 
+/*UTILS*/
 .vert-offset-top-10{
     margin-top: 1em!important;
 }
@@ -57,8 +58,10 @@
 span.destaque{
     color: rgb(237, 98, 52)!important;
 }
-
-//END UTILS//
+.social img{
+    width: 17.5%;
+    margin: 0 5px;
+}
 
 .clearfix {
   *zoom: 1;
@@ -1986,10 +1989,10 @@ ul.menu li .separator {
   box-shadow: inset 0 5px 12px rgba(0,0,0,0.13);
 }
 #rt-copyright {
-  border-top: 1px solid #d5d5d5;
+  border-top: 0px solid #d5d5d5;
   -webkit-box-shadow: inset 0 1px 0 #ffffff;
   -moz-box-shadow: inset 0 1px 0 #ffffff;
-  box-shadow: inset 0 1px 0 #ffffff;
+  box-shadow: inset 0 0px 0 #ffffff;
 }
 .title,
 .component-content h2 {
