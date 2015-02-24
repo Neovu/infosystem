@@ -1,11 +1,14 @@
-//utils//
-//*******/////FOOOTER CUSTOMIZADO POR HORA****///////
+
+/*FOOOTER CUSTOMIZADO POR HORA*/
+
 .footer-cool{
-    position: absolute!important;
-    bottom: 0!important;
-    left: 0!important;
-    background-color: #333!important;
-    width: 100%!important;
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    background: transparent;
+    width: 100%;
+    text-align: center;
 }
 
 .vert-offset-top-10{
@@ -55,7 +58,7 @@ span.destaque{
     color: rgb(237, 98, 52)!important;
 }
 
-
+//END UTILS//
 
 .clearfix {
   *zoom: 1;
