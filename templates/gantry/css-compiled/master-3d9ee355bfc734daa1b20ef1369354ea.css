@@ -1930,11 +1930,11 @@ ul.menu li .separator {
 .title,
 .component-content h2 {
   color: #303030;
-  text-shadow: 1px 1px 0 #ffffff;
+/*  text-shadow: 1px 1px 0 #ffffff;
   border-bottom: 1px solid #d1d1d1;
   -webkit-box-shadow: 0 1px 0 #ffffff;
   -moz-box-shadow: 0 1px 0 #ffffff;
-  box-shadow: 0 1px 0 #ffffff;
+  box-shadow: 0 1px 0 #ffffff;*/
 }
 .title1 .title {
   background: #ffffff;
