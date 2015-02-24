@@ -58,11 +58,12 @@ a:hover {
 html {
   margin-bottom: 1px;
   height: 100%;
+  background: url("/templates/gantry/images/bg_construction_page.jpg")!important;
+  background-size:cover!important;
 }
 body {
   margin-bottom: 1px;
-  background: url("/templates/gantry/images/bg_construction_page.jpg")!important;
-  background-size:cover!important;
+  
 }
 .rt-block {
   padding: 15px;
