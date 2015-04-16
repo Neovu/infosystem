@@ -5346,3 +5346,14 @@ a {
 
    width: 100%;
 }
+
+#chat_admin {
+     border: 0px;
+    width: 100%;
+     height: 100%;
+}
+#chat_admin iframe{
+     border: 0px;
+     width: 100%;
+     height: 100%;
+}
