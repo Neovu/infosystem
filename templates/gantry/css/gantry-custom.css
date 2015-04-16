@@ -1931,7 +1931,7 @@ ul.menu li .separator {
 .component-content h2 {
   color: #303030;
   text-shadow: 1px 1px 0 #ffffff;
-  border-bottom: 1px solid #d1d1d1;
+  border-bottom: 0px solid #d1d1d1;
   -webkit-box-shadow: 0 1px 0 #ffffff;
   -moz-box-shadow: 0 1px 0 #ffffff;
   box-shadow: 0 1px 0 #ffffff;
@@ -5331,7 +5331,7 @@ a {
     color: rgb(237, 98, 52)!important;
 }
 .social img{
-    width: 17.5%;
+    width: 32px;
     margin: 0 5px;
 }
 .center{
