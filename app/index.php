@@ -1,50 +1,35 @@
-<section class="container"> 
+<div class="center">
 
-    <div class="row">
-        <div class="center">
-            <h1 class="vert-offset-bottom-20"><img src="/templates/gantry/images/logo/light/logo.png"/></h1> 
-            <h2 class="vert-offset-bottom-10">Algo <span class="destaque">incrível</span> está para acontecer</h2> 
+    <h2 class="vert-offset-bottom-10">Algo <span class="destaque">incrível</span> está para acontecer</h2> 
+</div>
+<div class="center">
+    <form action="" class="default-form margin-bottom-65" id="contact-form" method="post">
+        <div class="form-group">
+            <!--      <label for="name">Name</label>-->
+            <input type="text" class="form-control span5 input-cool" name="name" maxlength="255" id="name" placeholder="seu nome">
         </div>
-        <div class="center">
-            <form action="" class="default-form margin-bottom-65" id="contact-form" method="post">
-                <div class="form-group">
-                    <!--      <label for="name">Name</label>-->
-                    <input type="text" class="form-control span5 input-cool" name="name" maxlength="255" id="name" placeholder="seu nome">
-                </div>
-                <div class="form-group">
-                    <!--      <label for="email">Email <span class="require">*</span></label>-->
-                    <input type="text" class="form-control span5 input-cool" name="email" maxlength="255" id="email" placeholder="seu email">
-                </div>
-                <div class="form-group">
-                    <!--      <label for="message">Message</label>-->
-                    <input type="text" class="form-control span5 input-cool"   name="subject" id="subject" maxlength="255" placeholder="assunto">
-                </div>
-                <div class="form-group">
-                    <!--      <label for="message">Message</label>-->
-                    <textarea class="form-control span5 input-cool" rows="8" name="message" id="message" placeholder="sua mensagem"></textarea>
-                </div>
-                <div class="form-group">
-                    <button type="submit" class="btn btn-orange-cool btn-warning " id="contact-button">Enviar</button> 
-                </div>
-                <div class="data-status"> </div> 
-
-            </form>
-
+        <div class="form-group">
+            <!--      <label for="email">Email <span class="require">*</span></label>-->
+            <input type="text" class="form-control span5 input-cool" name="email" maxlength="255" id="email" placeholder="seu email">
         </div>
+        <div class="form-group">
+            <!--      <label for="message">Message</label>-->
+            <input type="text" class="form-control span5 input-cool"   name="subject" id="subject" maxlength="255" placeholder="assunto">
+        </div>
+        <div class="form-group">
+            <!--      <label for="message">Message</label>-->
+            <textarea class="form-control span5 input-cool" rows="8" name="message" id="message" placeholder="sua mensagem"></textarea>
+        </div>
+        <div class="form-group">
+            <button type="submit" class="btn btn-orange-cool btn-warning gantry-width-50" id="contact-button">Enviar</button> 
+        </div>
+        <div class="data-status"> </div> 
 
-    </div>
+    </form>
 
 </div>
 
-<div class="social">
-    <div class="center">
-        <a href="http://facebook.com"><img src="/templates/gantry/images/social/bt_face.png"/></a>
-        <a href="http://twitter.com"><img src="/templates/gantry/images/social/bt_twitter.png"/></a>   
-        <a href="http://linkedin.com"><img src="/templates/gantry/images/social/bt_linkedin.png"/></a>
-        <a href="http://google.com"><img src="/templates/gantry/images/social/bt_google.png"/></a>
-    </div>
-</div>
-
+<p></p>
 
 
 <script>
