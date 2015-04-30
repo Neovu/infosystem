@@ -36,7 +36,8 @@ span.destaque{
 #chat_admin {
      border: 0px;
     width: 100%;
-     height: 100%;
+     height: 600px;
+     background:transparent;
 }
 #chat_admin iframe{
      border: 0px;
