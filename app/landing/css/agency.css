@@ -138,7 +138,7 @@ fieldset[disabled] .btn-primary.active {
     font-size: 18px;
     font-weight: 700;
     color: #fff;
-    background-color: #DB3500;
+    background-color: #D55F39;
 }
 
 .btn-xl:hover,
@@ -680,6 +680,10 @@ section h3.section-subheading {
     .timeline>li.timeline-inverted>.timeline-panel {
         padding: 0 100px 20px 20px;
     }
+}
+
+.team{
+      padding: 100px 0;
 }
 
 .team-member {
