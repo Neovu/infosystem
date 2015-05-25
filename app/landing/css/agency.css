@@ -824,7 +824,7 @@ ul.social-buttons li a:active {
 .btn:active,
 .btn.active,
 .btn:active:focus {
-    outline: 0;
+    outline: 0px;
 }
 
 #portfolio img {
