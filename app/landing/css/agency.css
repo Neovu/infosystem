@@ -808,7 +808,7 @@ ul.social-buttons li a {
     line-height: 40px;
     outline: 0;
     color: #fff;
-    background-color: #222;
+    background-color: #DB3500;
     -webkit-transition: all .3s;
     -moz-transition: all .3s;
     transition: all .3s;
@@ -817,14 +817,14 @@ ul.social-buttons li a {
 ul.social-buttons li a:hover,
 ul.social-buttons li a:focus,
 ul.social-buttons li a:active {
-    background-color: #fed136;
+    background-color: #cccccc;
 }
 
 .btn:focus,
 .btn:active,
 .btn.active,
 .btn:active:focus {
-    outline: 0;
+    outline: 0px;
 }
 
 #portfolio img {
@@ -937,4 +937,16 @@ body {
 
 #services h2{
     color:#AA7800;
+}
+
+.suporte-header{
+    padding-top: 100px;
+    background-color: #81C2D6;
+}
+.suporte-hub{
+    background:#B6E3D9;
+}
+.suporte-panel{
+   background: #fff;
+   border-radius: 4px;
 }
