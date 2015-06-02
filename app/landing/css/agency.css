@@ -143,10 +143,15 @@ fieldset[disabled] .btn-primary.active {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 18px;
-    font-weight: 700;
+    font-weight: 500;
     color: #fff;
     background-color: transparent;
     border: 2px solid #fff;
+}
+
+.btn-lg:hover{
+    background: #fff;
+    color:#AAA;
 }
 
 .btn-lg-bk {
@@ -270,7 +275,7 @@ fieldset[disabled] .btn-xl.active {
     .navbar-default {
         padding: 25px 0;
         border: 0;
-        background-color: transparent;
+        background-color: rgb(168, 217, 233);
         -webkit-transition: padding .3s;
         -moz-transition: padding .3s;
         transition: padding .3s;
@@ -432,8 +437,7 @@ section h3.section-subheading {
     display: block;
     position: relative;
     margin: 0 auto;
-    max-width: 400px;
-    border-radius: 95px;
+    box-shadow: 0px 2px 4px rgba(153, 153, 153, 0.5);
 }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover {
@@ -448,7 +452,7 @@ section h3.section-subheading {
 }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover:hover {
-    opacity: .8;
+    opacity: .95;
 }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content {
@@ -477,8 +481,7 @@ section h3.section-subheading {
 
 #portfolio .portfolio-item .portfolio-caption {
     margin: 0 auto;
-    padding: 25px;
-    max-width: 400px;
+    padding: 12px;
     text-align: center;
     background-color: #fff;
     border-bottom-left-radius: 5px;
@@ -486,13 +489,12 @@ section h3.section-subheading {
 }
 
 #portfolio .portfolio-item .portfolio-caption h4 {
-    margin: 0;
+    margin: 0 0 0 20px;
     text-transform: none;
-    /* border-bottom-left-radius: 5px; */
-    /* border-bottom-right-radius: 5px; */
-    margin-bottom: 20px;
-    font-size: 28px;
-    color: #666;
+    font-size: 22px;
+    color: #888;
+    font-weight: 200;
+    text-align: left;
 }
 
 #portfolio .portfolio-item .portfolio-caption p {
