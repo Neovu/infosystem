@@ -47,7 +47,7 @@ a.active {
 }
 
 a {
-    color: #fed136;
+    color: #FF9000;
 }
 
 a:hover,
@@ -749,9 +749,10 @@ aside.clients img {
 
 section#contact {
     background-color: #222;
-    background-image: url(../img/map-image.png);
+    background-image: url(../img/maps.png);
     background-position: center;
     background-repeat: no-repeat;
+    background-size: cover;
 }
 
 section#contact .section-heading {
@@ -877,7 +878,7 @@ ul.social-buttons li a:active {
 }
 
 .portfolio-modal .modal-content {
-    padding: 100px 0;
+    
     min-height: 100%;
     border: 0;
     border-radius: 0;
@@ -887,9 +888,30 @@ ul.social-buttons li a:active {
     box-shadow: none;
 }
 
+.modal-header1{
+    background: #1EA1F7;
+}
+.modal-header2{
+    background: #FF8E0D;
+}
+.modal-header3{
+    background: #F9C30C;
+}
+.modal-header4{
+    background: #01FFC0;
+}
+.modal-header5{
+    background: #53AC63;
+}
+.modal-header6{
+    background: #1EA1F7;
+}
+
 .portfolio-modal .modal-content h2 {
     margin-bottom: 15px;
     font-size: 3em;
+    color: #888;
+  text-shadow: 2px 2px 0px #b0b0b0;
 }
 
 .portfolio-modal .modal-content p {
@@ -920,6 +942,7 @@ ul.social-buttons li a:active {
     height: 75px;
     background-color: transparent;
     cursor: pointer;
+    color:#fff;
 }
 
 .portfolio-modal .close-modal:hover {
@@ -931,20 +954,22 @@ ul.social-buttons li a:active {
     width: 1px;
     height: 75px;
     margin-left: 35px;
-    background-color: #222;
+    background-color: #fff;
     -webkit-transform: rotate(45deg);
     -ms-transform: rotate(45deg);
     transform: rotate(45deg);
+    color: #fff;
 }
 
 .portfolio-modal .close-modal .lr .rl {
     z-index: 1052;
     width: 1px;
     height: 75px;
-    background-color: #222;
+    background-color: #fff;
     -webkit-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
+    color: #fff;
 }
 
 .portfolio-modal .modal-backdrop {
