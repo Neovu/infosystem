@@ -26,3 +26,4 @@ if ($user->guest) {
 <div id="chat_admin" >
     <iframe onload="loaded()" class="chat_admin" src="http://brainebook.educacaocerebral.org/emotion/" /> 
 </div>
+ 
