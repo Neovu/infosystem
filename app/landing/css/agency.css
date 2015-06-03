@@ -208,7 +208,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default {
     border-color: transparent;
-    background-color: #222;
+    background-color: #A8D9E9;
 }
 
 .navbar-default .navbar-brand {
@@ -747,6 +747,11 @@ aside.clients img {
     margin: 50px auto;
 }
 
+.contact-bg{
+    background: rgba(255, 255, 255, 0.85);
+    border-radius: 4px;
+}
+
 section#contact {
     background-color: #222;
     background-image: url(../img/maps.png);
@@ -755,9 +760,6 @@ section#contact {
     background-size: cover;
 }
 
-section#contact .section-heading {
-    color: #fff;
-}
 
 section#contact .form-group {
     margin-bottom: 25px;
@@ -904,7 +906,7 @@ ul.social-buttons li a:active {
     background: #53AC63;
 }
 .modal-header6{
-    background: #1EA1F7;
+    background: #A76E37;
 }
 
 .portfolio-modal .modal-content h2 {
@@ -1000,6 +1002,11 @@ body {
 }
 
 #services h2{
+    color: #888;
+    text-shadow: 2px 2px 0px #b0b0b0;
+}
+
+#contact h2{
     color: #888;
     text-shadow: 2px 2px 0px #b0b0b0;
 }
