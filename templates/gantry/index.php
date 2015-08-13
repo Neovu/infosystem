@@ -50,6 +50,16 @@ $gpreset = str_replace(' ','',strtolower($gantry->get('name')));
 		$hidden = ' class="rt-hidden"';}
 
     ?>
+         <!-- Custom CSS -->
+        <link href="app/landing/css/agency.css" rel="stylesheet">
+
+        <!-- Custom Fonts -->
+        <link href="app/landing/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+        <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+        <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
+        <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+        <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
+
 </head>
 <body <?php echo $gantry->displayBodyTag(); ?>>
     <?php /** Begin Top Surround **/ if ($gantry->countModules('top') or $gantry->countModules('header')) : ?>
