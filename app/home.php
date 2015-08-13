@@ -8,13 +8,13 @@ if ($user->guest) {
     $idname = $user->username;
 }
 ?>
-<!-- 
+  
 <script type="text/javascript">
     var idadmin = "<? echo $idadmin; ?>";
     var idname = "<? echo $idname; ?>";
     
     (function($) {
-
+ 
         $(document).ready(function($) {
             $("#rt-top-surround, .gf-menu-toggle").hide();
             $('body').append("<input type=\"hidden\" value=\"<? echo $idadmin; ?>\" id=\"adminID\" />");
@@ -32,45 +32,8 @@ if ($user->guest) {
     })(jQuery);
 
 
-</script> -->
-
-
-
-
-<div class="center">
-
-    <h2 class="vert-offset-bottom-10">Algo <span class="destaque">incrível</span> está para acontecer</h2> 
-</div>
-<div class="center">
-    <form action="" class="default-form margin-bottom-65" id="contact-form" method="post">
-        <div class="form-group">
-            <!--      <label for="name">Name</label>-->
-            <input type="text" class="form-control span5 input-cool" name="name" maxlength="255" id="name" placeholder="seu nome">
-        </div>
-        <div class="form-group">
-            <!--      <label for="email">Email <span class="require">*</span></label>-->
-            <input type="text" class="form-control span5 input-cool" name="email" maxlength="255" id="email" placeholder="seu email">
-        </div>
-        <div class="form-group">
-            <!--      <label for="message">Message</label>-->
-            <input type="text" class="form-control span5 input-cool"   name="subject" id="subject" maxlength="255" placeholder="assunto">
-        </div>
-        <div class="form-group">
-            <!--      <label for="message">Message</label>-->
-            <textarea class="form-control span5 input-cool" rows="8" name="message" id="message" placeholder="sua mensagem"></textarea>
-        </div>
-        <div class="form-group">
-            <button type="submit" class="btn btn-orange-cool btn-warning gantry-width-50" id="contact-button">Enviar</button> 
-        </div>
-        <div class="data-status"> </div> 
-
-    </form>
-
-</div>
-
-<p></p>
-
-
+</script> 
+ 
 <script>
 
     jQuery('#contact-button').click(function (e) {
