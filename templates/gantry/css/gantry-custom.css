@@ -48,3 +48,14 @@ span.destaque{
      width: 100%;
      height: 100%;
 }
+#central_admin {
+     border: 0px;
+    width: 100%;
+     height: 600px;
+     background:transparent;
+}
+#central_admin iframe{
+     border: 0px;
+     width: 100%;
+     height: 100%;
+}
