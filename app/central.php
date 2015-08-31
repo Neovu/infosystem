@@ -16,14 +16,14 @@ if ($user->guest) {
 
     function loaded( ) {
 
-        jQuery('#chat_admin').css("height", jQuery('iframe').contents().height());
+        jQuery('#central_admin').css("height", jQuery('iframe').contents().height());
         console.log(jQuery("body").height())
         console.log(jQuery('iframe').contents().height())
 
     }
 
 </script> 
-<div id="chat_admin" >
-    <iframe onload="loaded()" class="chat_admin" src="http://brainebook.educacaocerebral.org/emotion/" /> 
+<div id="central_admin" >
+    <iframe onload="loaded()" class="central_admin" src="http://central.maisinternet.net.br/central/" /> 
 </div>
  

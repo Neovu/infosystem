@@ -2,41 +2,7 @@ iframe{
      border: 0px;
      width: 100%;
      height: 100%;
-}
-.footer-cool{ 
-    background: transparent;
-    width: 100%;
-    text-align: center;
-}
- 
-.btn-orange-cool{ 
-    height: 3em!important;
-    border-radius: 3px!important;
-    background: rgb(237, 98, 52)!important;
-    outline: none!important;
-    border:0 solid #333;
 } 
-
-.input-cool{
-    padding: 1em 0.5em!important;
-    
-}
-span.destaque{
-    color: rgb(237, 98, 52)!important;
-} 
-.social img{
-    width: 32px;
-    margin: 0 5px;
-}
-.center{ 
-  margin: 0 auto; 
-}
-
-.contact_form{
-   margin: 0 auto;
- 
-}
-
 #chat_admin {
      border: 0px;
     width: 100%;
@@ -48,3 +14,23 @@ span.destaque{
      width: 100%;
      height: 100%;
 }
+#central_admin {
+     border: 0px;
+    width: 100%;
+     height: 600px;
+     background:transparent;
+}  
+#central_admin iframe{
+     border: 0px;
+     width: 100%;
+     height: 100%;
+}
+ 
+#home-frame iframe{
+     border: 0px;
+     width: 100%;
+     height: 100%;
+}
+
+
+

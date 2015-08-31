@@ -24,6 +24,6 @@ if ($user->guest) {
 
 </script> 
 <div id="chat_admin" >
-    <iframe onload="loaded()" class="chat_admin" src="http://brainebook.educacaocerebral.org/emotion/" /> 
+    <iframe onload="loaded()" class="chat_admin" src="http://www.infosystem.srv.br/app/landing/" /> 
 </div>
  
