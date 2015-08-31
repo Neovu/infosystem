@@ -1165,3 +1165,6 @@ body {
 ul.dropdown-menu {
   border-radius: 4px!important;
 }
+.modal-body ul li{
+    list-style: none;
+}
