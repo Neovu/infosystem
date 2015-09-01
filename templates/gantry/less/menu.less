@@ -84,6 +84,7 @@
     // Level 1 Style Overrides
     &.l1 {
         > li.active {
+             color: @menuHoverColor;
             background: @menuActiveBack;
             border: 1px solid @menuActiveBorder;
             .border-radius(@menuItemRadius);
@@ -101,7 +102,9 @@
                 padding-top:1px;
                 padding-bottom: 4px;
             }
-
+ &.active {
+                 color: @menuHoverColor;
+            }
             .menu-image {
                 margin-top: -1px;
             }
@@ -173,7 +176,7 @@
 
                 &.active {
                     > .item {
-                        color: @menuTextHover;
+                        color: @menuHoverColor;
                     }
                 }
 
