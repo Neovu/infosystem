@@ -1168,3 +1168,8 @@ ul.dropdown-menu {
 .modal-body ul li{
     list-style: none;
 }
+#central_frame {
+    border: 0px;
+    width: 100%;
+    height: 70%;
+}
