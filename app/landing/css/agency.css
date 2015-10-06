@@ -1193,3 +1193,10 @@ ul.dropdown-menu {
 .suporte-modal ul li{
     list-style: none;
 }
+
+#lhc_need_help_container{
+    box-shadow: 1px 1px 5px #888;
+}
+#lhc_need_help_triangle{
+    display: none;
+}
