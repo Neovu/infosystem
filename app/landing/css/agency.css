@@ -1207,3 +1207,10 @@ ul.dropdown-menu {
 .modal-content{
     box-shadow: 0px 0px 0px rgba(0,0,0,0);
 }
+
+#lhc_need_help_sub_title {
+    line-height: 1.2;
+}
+div#map-canvas {
+    height: 480px;
+}

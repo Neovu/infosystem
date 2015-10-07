@@ -1,0 +1,824 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Area cobertura Mais internet</name>
+		<description><![CDATA[]]></description>
+		<Folder>
+			<name>POPs</name>
+			<Placemark>
+				<name>POP AgroMornas</name>
+				<styleUrl>#icon-503-F8971B-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-48.822346,-27.695978,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Canto da Amizade</name>
+				<styleUrl>#icon-503-F8971B-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-48.816724,-27.690641,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>POP Joel Pneus</name>
+				<styleUrl>#icon-503-F8971B-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-48.765314,-27.684861,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>varginha</name>
+				<styleUrl>#icon-503-F8971B-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-48.81376100000001,-27.602622,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Torre STA. Isabel</name>
+				<styleUrl>#icon-503-F8971B-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-48.924733,-27.702448,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>mais_pedreira</name>
+				<styleUrl>#icon-503-F8971B-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-48.722931,-27.679232,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Nature Residence</name>
+				<description><![CDATA[23/12/14 sinal -72dbm]]></description>
+				<styleUrl>#icon-503-F8971B</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-48.689523,-27.635258,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>pop gole</name>
+				<styleUrl>#icon-503-F8971B-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-48.71825,-27.687845000000003,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>mais_cond_palhoça</name>
+				<styleUrl>#icon-503-F8971B-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-48.723043000000004,-27.679221,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>POP Cervejaria (Diego)</name>
+				<styleUrl>#icon-503-F8971B-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-48.839352,-27.706647000000004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>mais_schutz</name>
+				<styleUrl>#icon-503-F8971B-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-48.684273,-27.667948,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>São Sebastião</name>
+				<description><![CDATA[MAIS_SB 5GHZ = LINHA ROSA<br>IP 172.24.4.94]]></description>
+				<styleUrl>#icon-503-F8971B</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-48.721231,-27.631166,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>BKP Pagani</name>
+				<styleUrl>#icon-503-F8971B-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-48.681279,-27.641244,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Alto-Aririú</name>
+				<description><![CDATA[MAIS_ALTO = LINHA MARROM<br>IP 172.24.4.102<br><br><br>WS0001AA = LINHA ROSA<br>IP 172.24.4.98<br><br><br>CLIENTES CABEADOS = LINHA BRANCA]]></description>
+				<styleUrl>#icon-503-F8971B</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-48.712572,-27.682242,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>intertec_scf2</name>
+				<styleUrl>#icon-503-F8971B-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-48.906693000000004,-27.732503,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>mais_riodasantas</name>
+				<styleUrl>#icon-503-F8971B-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-48.907535,-27.728573,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mais SDM - Bruda</name>
+				<description><![CDATA[08/01/2015 sinal -63dbm NM5]]></description>
+				<styleUrl>#icon-503-F8971B</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-48.741379,-27.680717000000005,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>mais_praiadefora</name>
+				<styleUrl>#icon-503-F8971B-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-48.65395,-27.704825,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>mais_sdd</name>
+				<styleUrl>#icon-503-F8971B-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-48.76900400000001,-27.679666,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>mais_praca</name>
+				<description><![CDATA[13/01/15 trocado o canal do 5765 para o 5180, clientes tiveram uma leve melhora no sinal]]></description>
+				<styleUrl>#icon-503-F8971B</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-48.777057,-27.686192,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Pop Braço São João</name>
+				<styleUrl>#icon-503-F8971B-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-48.7241,-27.712304,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Concorrente Felipe</name>
+				<styleUrl>#icon-503-F8971B-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-48.771783,-27.695923,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>mgt_pop1</name>
+				<styleUrl>#icon-503-F8971B-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-48.926196,-27.719777,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Santo Amaro Fernando</name>
+				<description><![CDATA[MAIS_SA-ANTENAS 5,8GHZ = LINHA ROSA]]></description>
+				<styleUrl>#icon-503-F8971B</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-48.772109,-27.681763,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Rio do Cedro / Rio Novo</name>
+				<styleUrl>#icon-503-F8971B-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-48.976122,-27.775378,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Fernando Alto</name>
+				<description><![CDATA[MAIS_ALTO_2 - 5GHZ= LINHA VERDE CLARO<br>IP 172.24.4.210<br><br>MAIS_SAI1 - 5GHZ = LINHA PRETA<br>IP 172.24.4.206<br><br>WS0003AA - 2,4GHZ = LINHA MARROM<br>IP 172.24.4.218<br><br>WSSA1 - 2,4GHZ = LINHA AZUL<br>IP 172.24.4.214]]></description>
+				<styleUrl>#icon-503-F8971B</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-48.709428,-27.686993,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SERVIDOR</name>
+				<styleUrl>#icon-503-F8971B-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-48.711666,-27.683887,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Pop Sul do Rio</name>
+				<styleUrl>#icon-503-F8971B-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-48.727054,-27.696234,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>FUTURO POP</name>
+				<styleUrl>#icon-503-F8971B-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-48.772184,-27.680527,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>FUTURO POP</name>
+				<styleUrl>#icon-503-F8971B-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-48.748281,-27.707418,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Varginha</name>
+				<description><![CDATA[WSVARGINHA = LINHA VERMELHA<br>IP 172.24.4.166]]></description>
+				<styleUrl>#icon-503-F8971B</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-48.800061,-27.651027,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Santo Amaro</name>
+				<description><![CDATA[MAISINTERNET_SERTAO1 = LINHA VERDE<br>IP 172.24.6.162 ACESSO VIA WINBOX<br><br>MAISINTERNET_SERTAO2 = LINHA LARANJA<br>IP 172.24.4.138<br><br>SANTOAMAROS = LINHA VERDE CLARO<br>IP 172.24.4.158<br><br>SANTOAMAROC = LINHA BRANCA<br>IP 172.24.4.130]]></description>
+				<styleUrl>#icon-503-F8971B</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-48.765794,-27.697174,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Varzea do Braço</name>
+				<description><![CDATA[MAIS_VDB_SETOR1 = LINHA VERMELHA<br>IP 172.24.5.22 <br><br>MGT_DV_BRC = LINHA VERDE<br>IP 172.24.5.18]]></description>
+				<styleUrl>#icon-503-F8971B</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-48.79332,-27.723456,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Caldas</name>
+				<description><![CDATA[INTERTEC_02 5.8GHZ = LINHA BEGE<br>IP 172.24.5.14<br><br>INTERTEC_01 2.4GHZ = LINHA AZUL<br>IP 172.24.5.42<br><br>INTERTEC_3 5.8GHZ = LINHA PRETA<br>IP 172.24.5.6]]></description>
+				<styleUrl>#icon-503-F8971B</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-48.817708,-27.726122000000004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sertãozinho</name>
+				<description><![CDATA[MAIS_ALTOARIRIU3 5.8GHZ = LINHA AZUL<br>WS0004AA 2.4GHZ = LINHA PRETA]]></description>
+				<styleUrl>#icon-503-F8971B</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-48.708558,-27.666345,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Vargem dos Pinheiros</name>
+				<styleUrl>#icon-503-F8971B-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-48.728829,-27.68834,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Rio Miguel Sebold</name>
+				<styleUrl>#icon-503-F8971B-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-48.982368,-27.722366,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Fazenda</name>
+				<description><![CDATA[MAIS_FAZENDASAC 5.8GHZ = LINHA VERMELHA]]></description>
+				<styleUrl>#icon-503-F8971B</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-48.842797,-27.678764,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Santa Cruz da Figueira</name>
+				<description><![CDATA[MGT_SANTACRUZ 5.8GHZ = LINHA AZUL CLARO<br>MAIS_SCF2 5.8GHZ = LINHA PRETA]]></description>
+				<styleUrl>#icon-503-F8971B</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-48.89149,-27.723616,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Guarda do Cubatão</name>
+				<description><![CDATA[GUARDA 5.8GHZ = LINHA BRANCA<br>GUARDA2 5.8GHZ = LINHA MARROM<br>ISGUARDA_2 2.4GHZ = LINHA ROSA]]></description>
+				<styleUrl>#icon-503-F8971B</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-48.673549,-27.690385,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Pop Praia de Fora</name>
+				<styleUrl>#icon-503-F8971B-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-48.622817,-27.752591,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Area cobertura</name>
+			<Placemark>
+				<name>Area de cobertura Mais internet</name>
+				<styleUrl>#poly-DB4436-1-76-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-48.9265816,-27.6870246,0.0 -48.947349800000005,-27.691853200000004,0.0 -48.95987970000001,-27.696679800000002,0.0 -48.9760158,-27.7057226,0.0 -48.9863172,-27.7089887,0.0 -48.9924994,-27.7146859,0.0 -48.9956759,-27.723197200000005,0.0 -48.9947325,-27.729885,0.0 -48.9908681,-27.742039999999996,0.0 -48.990096300000005,-27.7547976,0.0 -48.9894028,-27.766340799999995,0.0 -48.98975,-27.776973499999997,0.0 -48.97979680000001,-27.782745800000004,0.0 -48.9669161,-27.780166700000002,0.0 -48.9532674,-27.7764458,0.0 -48.9296217,-27.7633444,0.0 -48.908729,-27.745378500000005,0.0 -48.8855537,-27.741886999999995,0.0 -48.8527685,-27.7329204,0.0 -48.820839799999995,-27.7298812,0.0 -48.780671600000005,-27.7292735,0.0 -48.7686554,-27.728666,0.0 -48.758356,-27.726842699999995,0.0 -48.7435933,-27.725930700000006,0.0 -48.716814500000005,-27.725930700000003,0.0 -48.6920956,-27.727146600000005,0.0 -48.6720115,-27.7224366,0.0 -48.6591372,-27.725626900000005,0.0 -48.6306419,-27.7560125,0.0 -48.6212007,-27.7581395,0.0 -48.6138193,-27.7535819,0.0 -48.6141627,-27.738693599999998,0.0 -48.6303007,-27.732463200000005,0.0 -48.62978510000001,-27.7162798,0.0 -48.63235840000001,-27.7000962,0.0 -48.625492,-27.6873286,0.0 -48.633045,-27.6785121,0.0 -48.63064189999999,-27.6651338,0.0 -48.6536442,-27.6471924,0.0 -48.65913729999999,-27.6268146,0.0 -48.6876325,-27.613125899999996,0.0 -48.715098000000005,-27.612517499999996,0.0 -48.730547300000005,-27.617993199999997,0.0 -48.7346672,-27.6465841,0.0 -48.7415335,-27.6560114,0.0 -48.7621325,-27.6563155,0.0 -48.7823882,-27.6356352,0.0 -48.7944043,-27.5860476,0.0 -48.8023007,-27.5813313,0.0 -48.8136301,-27.5827004,0.0 -48.82495930000001,-27.5843739,0.0 -48.8259895,-27.5951759,0.0 -48.8215265,-27.6377642,0.0 -48.82805,-27.6462797,0.0 -48.8321697,-27.652665900000002,0.0 -48.8386923,-27.6608769,0.0 -48.8555149,-27.6642216,0.0 -48.8671879,-27.6733431,0.0 -48.8905332,-27.680031899999996,0.0 -48.9101023,-27.685504600000005,0.0 -48.9265816,-27.6870246,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>POPs</name>
+			<Placemark>
+				<name>Centro - Águas Mornas</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-48.822346,-27.695978,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Vargem dos Pinheiros - Santo Amaro da Imperatriz</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-48.728831,-27.688366000000002,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Canto da Amizade - Águas Mornas</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-48.816724,-27.690641,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Joel Pneus - Santo Amaro da Imperatriz</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-48.765314,-27.684861,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Varginha - Santo Amaro da Imperatriz</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-48.81376100000001,-27.602622,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Santa Isabel - Águas Mornas</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-48.924733,-27.702448,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Pedreira - Palhoça</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-48.722931,-27.679232,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Pagani 2 - Palhoça</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-48.689523,-27.635258,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Gole - Palhoça</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-48.71825,-27.687845000000003,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Vargem Grande - Águas Mornas</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-48.839352,-27.706647000000004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lot. Schutz - Palhoça</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-48.684273,-27.667948,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>São Sebastião - Palhoça</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-48.721231,-27.631166,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Pagani - Palhoça</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-48.681279,-27.641244,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Alto-Aririú1 - Palhoça</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-48.712572,-27.682242,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Caldas - Santo Amaro da Imperatriz</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-48.906693000000004,-27.732503,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Rio das Antas - Águas Mornas</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-48.907535,-27.728573,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Nossa Senhora de Lourdes - Santo Amaro da Imperatriz</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-48.741379,-27.680717000000005,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Furadinho - Palhoça</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-48.65395,-27.704825,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>São Francisco - Santo Amaro da Imperatriz</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-48.76900400000001,-27.679666,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Praça - Santo Amaro da Imperatriz</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-48.777057,-27.686192,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Braço São João - Santo Amaro da Imperatriz</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-48.7241,-27.712304,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Santa Isabel Granja - Águas Mornas</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-48.926196,-27.719777,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Antenas - Santo Amaro da Imperatriz</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-48.772109,-27.681763,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Rio do Cedro/Rio Novo - Águas Mornas</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-48.976122,-27.775378,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Alto-Aririú2 - Palhoça</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-48.709428,-27.686993,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Central Mais Internet - Alto-Aririú</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-48.711666,-27.683887,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sul do Rio - Santo Amaro da Imperatriz</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-48.727054,-27.696234,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Varginha - Santo Amaro da Imperatriz</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-48.800061,-27.651027,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Morro Ventura - Santo Amaro da Imperatriz</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-48.765794,-27.697174,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Varzea do Braço - Santo Amaro da Imperatriz</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-48.79332,-27.723456,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Caldas da Imperatriz - Santo Amaro da Imperatriz</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-48.817708,-27.726122000000004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sertãozinho - Palhoça</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-48.708558,-27.666345,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Rio Miguel - Águas Mornas</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-48.982368,-27.722366,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Fazenda - Águas Mornas</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-48.842797,-27.678764,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Santa Cruz da Figueira - Águas Mornas</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-48.89149,-27.723616,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Guarda do Cubatão - Palhoça</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-48.673549,-27.690385,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Praia de Fora - Palhoça</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-48.622817,-27.752591,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-503-DB4436-nodesc'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-503-F8971B'>
+			<IconStyle>
+				<color>ff1B97F8</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+		</Style>
+		<Style id='icon-503-F8971B-nodesc'>
+			<IconStyle>
+				<color>ff1B97F8</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='poly-DB4436-1-76-nodesc-normal'>
+			<LineStyle>
+				<color>ff3644DB</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C3644DB</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='poly-DB4436-1-76-nodesc-highlight'>
+			<LineStyle>
+				<color>ff3644DB</color>
+				<width>2.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C3644DB</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='poly-DB4436-1-76-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-DB4436-1-76-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-DB4436-1-76-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
